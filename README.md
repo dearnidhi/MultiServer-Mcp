@@ -19,8 +19,7 @@ To run the entire project, use the following command:
 ```bash
 python client.py
 🛠️ Installation
-bash
-Copy code
+
 # Create project directory
 mkdir mcplanggraph
 cd mcplanggraph
@@ -37,4 +36,5 @@ mcplanggraph/
 ├── 📄 client.py              # Direct tool calling client
 ├── 📄 .env                   # Environment variables
 └── 📄 README.md              # This file
+
 
