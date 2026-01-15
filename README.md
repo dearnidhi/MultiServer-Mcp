@@ -36,6 +36,3 @@ mcplanggraph/
 ├── 📄 client.py              # Direct tool calling client
 ├── 📄 .env                   # Environment variables
 └── 📄 README.md              # This file
-
-
-.
